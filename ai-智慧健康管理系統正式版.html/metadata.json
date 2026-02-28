@@ -1,0 +1,7 @@
+{
+  "name": "AI 智慧健康管理系統正式版",
+  "description": "高中生全方位健康追蹤應用程式。整合飲食、運動與睡眠數據，利用 Gemini Vision 辨識飲食內容，並提供個人化健康建議與週報分析。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
